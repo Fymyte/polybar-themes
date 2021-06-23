@@ -64,4 +64,5 @@ main() {
 	fi
 }
 
-main
+#main
+install_fonts
